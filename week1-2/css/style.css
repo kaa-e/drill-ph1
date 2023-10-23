@@ -7,5 +7,6 @@
   width: 200px;
   height: 200px;
   /* ↓ ここに１行追加 ↓ */
+  margin: 1px;
   display: inline-block;
 }
